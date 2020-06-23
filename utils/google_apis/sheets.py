@@ -7,9 +7,9 @@ def auth_tasks():
 
 
 def get_max_value_column(self, search_range="!A2:A"):
-		"""returns a [[]] with max values"""
+	"""returns a [[]] with max values"""
 		
-		# init vars
+ 	# init vars
         max_len = 0
         max_title = ''
         
